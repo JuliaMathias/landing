@@ -1,0 +1,25 @@
+.footer {
+  margin-bottom: 0;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.social-icon {
+  font-size: 32px;
+  margin: 8px;
+  margin-right: 24px;
+  margin-left: 0px;
+  color: rgb(132, 184, 227);
+}
+
+.social-icon:hover {
+  color: rgb(220, 220, 220);
+}
